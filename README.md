@@ -35,5 +35,4 @@ The above image tells us three facts about the temperatures in December:
 
 ## Summary
 
-
-
+For the month of June there were 1500 points of data collected and for the month of December there were 1517 point of data collected. Using this data, we can feel confident we have an accurate temperature analysis for both of these months. If we wanted to further our analysis, we can add a query to find the precipitation for both June and December. Then we can combine both the temperature data and the precipitation data to get a better overall picture at how temperatures and precipitation will impact W. Avy's ice cream business.
